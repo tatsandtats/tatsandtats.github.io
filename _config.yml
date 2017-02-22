@@ -30,8 +30,8 @@ opengraph:
 links:
   - title: About
     url: /about
-  - title: Test
-    url: /test
+  - title: Contact
+    url: /contact
   #for registry, add external link if necessary
  # - title: Registry
  #   url: http://www.something.com 
