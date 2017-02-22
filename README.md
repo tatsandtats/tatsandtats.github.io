@@ -1,6 +1,6 @@
 # Modified README to strip non-essential info
-This is forked from [minimal mistakes](http://mademistakes.com)
-Original author: [@twnsndco](https://twitter.com/twnsndco), that would be pretty sweet. 
+Original theme: [minimal mistakes](http://mademistakes.com)  
+Balzac author: [@twnsndco](https://twitter.com/twnsndco)
 
 ## Features:
 - flexible, uses max-width for responsive goodness
