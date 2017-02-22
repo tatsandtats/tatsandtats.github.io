@@ -1,18 +1,6 @@
-# Balzac
-
-This is forked from [minimal mistakes](http://mademistakes.com). I needed some type of framework to build off as I have no experience with Jekyll. Michael set up an awesome dev environment for this which really helped speed up my progress. He also already wrote up an incredibly comprehensive readme.md so I basically copied all of it and replaced what was necessary. The design itself is my own and I cannot let you sell this or tweak the design for resale, unless I you [contact me](mailto:cole@coletownsend.com).
-
-
-If you'd like give me credit somewhere on your blog or tweet a shout out to
-[@twnsndco](https://twitter.com/twnsndco), that would be pretty sweet. 
-
-If you feel like donating — [Give it a thought.](http://gtat.me/balzac/donate)
-
----
-
-
-![Balzac for Jekyll](http://cl.ly/Qdzo/Screen%20Shot%202013-08-05%20at%205.35.11%20PM.jpg)
-![Balzac for Jekyll](http://cl.ly/Qdyh/Screen%20Shot%202013-08-05%20at%205.30.01%20PM.jpg)
+# Modified README to strip non-essential info
+This is forked from [minimal mistakes](http://mademistakes.com)
+Original author: [@twnsndco](https://twitter.com/twnsndco), that would be pretty sweet. 
 
 ## Features:
 - flexible, uses max-width for responsive goodness
@@ -21,18 +9,9 @@ If you feel like donating — [Give it a thought.](http://gtat.me/balzac/donate)
 - post loop in the footer showing 3 latest posts
 - custom portfolio page for case studies
 
-## Basic Setup
-
-1. [Install Jekyll](http://jekyllrb.com) if you haven't already.
-2. Download this bad boy.
-3.  Fork the [Balzac repo](http://github.com/coletownsend/balzac-for-jekyll/)
-4. Twerk it out so it's just for you.
-5.  ???
-6.  Profit
 
 ## [Preview the Theme](http://jekyll.gtat.me)
-=======
- [Preview the Theme](http://jekyll.gtat.me)
+
  
 ``` bash
 balzac-for-jekyll/
@@ -67,7 +46,6 @@ balzac-for-jekyll/
 Most of the variables found here are used in the .html files found in `_includes` if you need to add or remove anything. A good place to start would be to change the title, tagline, description, and url of your site. When working locally comment out `url` or else you will get a bunch of broken links because they are absolute and prefixed with `{{ site.url }}` in the various `_includes` and `_layouts`. Just remember to uncomment `url` when building for deployment or pushing to **gh-pages**...
 
 ### Owner/Author Information
-
 Change your name, bio, Twitter url, email, Dribbble URL, etc.
 
 
@@ -123,16 +101,3 @@ Ex:
 ```
 layout: post-no-feature
 ```
-
-### Categories
-
-In the sample `_posts` folder you may have noticed `category: articles` in the front matter. I like keeping all posts grouped in the same folder. If you decide to rename or add categories you will need to modify the permalink in `articles.md` along with the filename (if renaming).
-
-For example. Say you want to group all your posts under `blog/` instead of `articles/`. In your post add `category: blog` to the front matter, rename or duplicate `articles.md` to `blog.md` and change the permalink in that file to `permalink: /blog/index.html`.
-
-If done correctly `/blog` should be a page listing all the site's posts.
-
-
-## License
-
-This is free to use, fork, do whatever you want. Please *do not* sell this design though. You don't need to link me to it, but please contact me if you intend to market this theme. I am releasing premium versions of this design for select CMS's. 
