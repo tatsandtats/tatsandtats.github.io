@@ -3,7 +3,7 @@ layout: page
 title: "It's happening"
 tags: []
 image:
-  feature: typewriter.jpg
+  feature: faces.jpg
 ---
 
 That's right it's happening!
