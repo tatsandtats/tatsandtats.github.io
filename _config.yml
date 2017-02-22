@@ -32,6 +32,11 @@ links:
     url: /about
   - title: Test
     url: /test
+  #for registry, add external link if necessary
+ # - title: Registry
+ #   url: http://www.something.com 
+ #   external: true
+  
   #- title: Github
   #  url: https://github.com/ColeTownsend/Balzac-for-Jekyll
   #  external: true
