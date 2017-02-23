@@ -53,39 +53,39 @@ test:
 # For external links add external: true
 # might have to change this links to match multilingual site
 links:
-#  en:
-#    home:
-#      title: Home
-#      url: /
+  en:
+    home:
+      title: Home
+      url: /
 #    where:
 #      title: Where
 #      url: /where
 #    when:
 #      title: When
 #      url: /when
-#    contact:
-#      title: Contact
-#      url: /contact
-#  it:
-#    home:
-#      title: Homepage
-#      url: /casa
+    contact:
+      title: Contact
+      url: /contact
+  it:
+    home:
+      title: Homepage
+      url: /casa
 #    where:
 #      title: Dove
 #      url: /dove
 #    when:
 #      title: Quando
 #      url: /quando
-#    contact:
-#      title: Contatti
-#      url: /contatti
+    contact:
+      title: Contatti
+      url: /contatti
     
-  - title: Where
-    url: /where
-  - title: When
-    url: /when
-  - title: Contact
-    url: /contact
+#  - title: Where
+#    url: /where
+#  - title: When
+#    url: /when
+#  - title: Contact
+#    url: /contact
   #for registry, add external link if necessary
  # - title: Registry
  #   url: http://www.something.com 
