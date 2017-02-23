@@ -73,6 +73,8 @@
                 <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
             {% endfor %}
             
+           
+           
             <!-- test for language links
             {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}{% for page in pages %}
                <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />
@@ -85,11 +87,10 @@
     </header>
    
    
-   
+<!-- test 
 <div class="wrapper" style="text-align: right; line-height: 2em">
-  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-  {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
 
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
   {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
 </div>
+-->
