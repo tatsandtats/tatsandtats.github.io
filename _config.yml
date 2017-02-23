@@ -49,11 +49,11 @@ test:
       name: "Italiani"
 
 languages:
-  english:
-    long: English
+  en:
+    long: "English innit"
     short: en
-  italian:
-    long: Italian
+  it:
+    long: "lingua Italiana"
     short: it
   
 
