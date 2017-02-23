@@ -1,6 +1,6 @@
-title:        
-  en: Tats and Tats
-  it: Tast e Tats
+title: 
+  en: "Tats and Tats"
+  it: "Tast e Tats"
 tagline:          "It's happening"
 description:      ""
 canonical: https://tatsandtats.github.io
@@ -34,6 +34,11 @@ tools:
 # Open Graph customization
 #opengraph:
 #  locale:           en_US
+
+test:
+  en: "this is English"
+  it: "this is Italian"
+
 
 # Links to include in top navigation
 # For external links add external: true
