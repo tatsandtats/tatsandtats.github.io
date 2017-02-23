@@ -82,11 +82,16 @@
             -->
            
            {% for idiom in site.languages %}
-              <li>{{ idiom[1].long }}</li>
+              <li>{{ idiom[1].short }}</li>
            {% endfor %}
            
-           <a href="{{ site.url }}{{ site.links.it.page.url }}">testita</a>
            
+           {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+           {% for page in pages %} <a href="{{ page.url | prepend: site.url }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
+           
+           <!--
+           <a href="{{ site.url }}{{ site.links.it.page.url }}">testita</a>
+           -->
             <!-- test for language links
             {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}{% for page in pages %}
                <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />
