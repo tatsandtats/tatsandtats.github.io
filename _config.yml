@@ -3,7 +3,15 @@ title: Tats and tats
 #  it: Tast e Tats
 tagline:          "It's happening"
 description:      ""
-canonical: http://tatsandtats.github.io
+canonical: https://tatsandtats.github.io
+
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+url: "https://tatsandtats.github.io"
+baseurl: ""
+
+
 
 # Owner/author information
 owner:
