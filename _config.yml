@@ -48,6 +48,14 @@ test:
     who:
       name: "Italiani"
 
+languages:
+  english:
+    long: English
+    short: en
+  italian:
+    long: Italian
+    short: it
+  
 
 # Links to include in top navigation
 # For external links add external: true
