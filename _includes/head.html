@@ -70,11 +70,11 @@
                 <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
             {% endfor %}
             
-            <!-- test for language links -->
+            <!-- test for language links
             {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}{% for page in pages %}
                <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />
             {% endfor %}
-            <!-- remove above if breaks -->
+            remove above if breaks -->
 
           </ul>
         </nav>
