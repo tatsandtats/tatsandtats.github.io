@@ -35,9 +35,18 @@ tools:
 #opengraph:
 #  locale:           en_US
 
+
 test:
-  en: "this is English"
-  it: "this is Italian"
+  en:
+    language:
+      name: "English language"
+    who:
+      name: "English people"
+  it:
+    language:
+      name: "Lingua italiana"
+    who:
+      name: "Italiani"
 
 
 # Links to include in top navigation
