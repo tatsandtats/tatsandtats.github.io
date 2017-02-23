@@ -1,11 +1,13 @@
-title:            Tats and Tats
+title:            
+  en: Tats and Tats
+  it: Tast e Tats
 tagline:          "It's happening"
 description:      ""
 canonical: http://tatsandtats.github.io
 
 # Owner/author information
 owner:
-  name:           The Tats
+  name:           Tats
   avatar:         avatar.png
   bio:            ""
   email:          tatsandtats@gmail.com
@@ -27,9 +29,8 @@ opengraph:
 
 # Links to include in top navigation
 # For external links add external: true
+# might have to change this links to match multilingual site
 links:
-  #- title: About
-  #  url: /about
   - title: Where
     url: /where
   - title: When
@@ -41,12 +42,6 @@ links:
  #   url: http://www.something.com 
  #   external: true
   
-  #- title: Github
-  #  url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-  #  external: true
-  #- title: Cole Who?
-  #  url: http://coletownsend.com
-  #  external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
