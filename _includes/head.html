@@ -93,7 +93,7 @@
            {% endfor %}
            
            {% for language in page.lang %}
-              <li> {{ site.languages.[language].switch }} </li>
+              <li> <a href="{{ page.url | prepend: site.url }}" class="{{ page.[site.languages.[language].switchshort] }}">{{ site.languages.[language].switch }} </a></li>
            {% endfor %}
            
 
