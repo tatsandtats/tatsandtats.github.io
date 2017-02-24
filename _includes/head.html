@@ -92,8 +92,11 @@
               <b><li><a href="{{ page.url | prepend: site.url }}" class="{{ page.lang }}">{{ page.lang }}</a> </li> </b>
            {% endfor %}
            
-           {% for language in page.lang %}
+           {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+           {% for page in pages %}     
+              {% for language in page.lang %}
               <li> <a href="{{ page.url | prepend: site.url }}" class="{{ page.[site.languages.[language].switchshort] }}">{{ site.languages.[language].switch }} </a></li>
+              {% endfor %}
            {% endfor %}
            
 
