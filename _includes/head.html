@@ -100,6 +100,18 @@
 
 
             -->
+           
+           
+           <script>
+           if (Math.random() < 0.5) {
+              text = "<a href='https://w3schools.com'>Visit W3Schools</a>";
+           } else {
+              text = "<a href='http://wwf.org'>Visit WWF</a>";
+           }
+           document.getElementById("demo").innerHTML = text;
+           </script>
+           
+           <li> id="demo"></li>
 
             <!-- test for language links
             {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}{% for page in pages %}
