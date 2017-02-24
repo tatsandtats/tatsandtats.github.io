@@ -36,25 +36,27 @@ tools:
 #  locale:           en_US
 
 
-test:
-  en:
-    language:
-      name: "English language"
-    who:
-      name: "English people"
-  it:
-    language:
-      name: "Lingua italiana"
-    who:
-      name: "Italiani"
+#test:
+#  en:
+#    language:
+#      name: "English language"
+#    who:
+#      name: "English people"
+#  it:
+#    language:
+#      name: "Lingua italiana"
+#    who:
+#      name: "Italiani"
 
 languages:
   en:
     long: "English innit"
     short: en
+    switch: "Italiano"
   it:
     long: "lingua Italiana"
     short: it
+    switch: "English"
   
 
 # Links to include in top navigation
