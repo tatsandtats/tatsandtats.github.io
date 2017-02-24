@@ -53,10 +53,12 @@ languages:
     long: "English innit"
     short: en
     switch: "Italiano"
+    switchshort: it
   it:
     long: "lingua Italiana"
     short: it
     switch: "English"
+    switchshort: en
   
 
 # Links to include in top navigation
