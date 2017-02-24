@@ -88,7 +88,9 @@
            -->
            
            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-           {% for page in pages %} <a href="{{ page.url | prepend: site.url }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
+           {% for page in pages %} 
+              <a href="{{ page.url | prepend: site.url }}" class="{{ page.lang }}">{{ page.lang }}</a> 
+           {% endfor %}
            
            <!--
            <a href="{{ site.url }}{{ site.links.it.page.url }}">testita</a>
