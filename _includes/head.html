@@ -117,10 +117,26 @@
            
            <p id="demo" ></p>
            -->
-           
+           <!--
            <li> <p style="display:inline" class="header.site-header.li" id="demo" ></p> </li>
+           -->
+           
+           
+
+           <div id="language" pagelang="${page.lang}" />
+           
+           <p id="demo" ></p>
            
            <script>
+           var thing = document.getElementById("language"), pagelang;
+           pagelang = thing.getAttribute("pagelang");
+           document.getElementById("demo").innerHTML = pagelang;
+           </script>
+           
+           <!--
+           <script>
+           
+            
            if page.lang = it {
               text = "italiano";
            } else {
@@ -129,7 +145,7 @@
            document.getElementById("demo").innerHTML = text;
            </script>
            
-                 <!--
+                 
 
           
            
