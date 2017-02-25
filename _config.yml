@@ -132,3 +132,7 @@ permalink:   /:categories/:title
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+
+
+fake_loop:
+  one: ''
