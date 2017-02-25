@@ -123,7 +123,7 @@
            
            
            
-           <p style="display:inline; font-size: 16px" id="demo" ></p>
+           <p style="display:inline; font-size: 16px; border-style: solid" id="demo" ></p>
            
            <div id="language" pagelang="{{ page.lang }}" />
            
@@ -131,9 +131,9 @@
            var thing = document.getElementById("language"), pagelang;
            pagelang = thing.getAttribute("pagelang");
            if (pagelang === "it") {
-              reverse = "<a href='/'>English</a>";
+              reverse = "<a href='/'>EN</a>";
            } else {
-              reverse = "<a href='/casa'>Italiano</a>";
+              reverse = "<a href='/casa'>IT</a>";
            }
            document.getElementById("demo").innerHTML = reverse;
            </script>
