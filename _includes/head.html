@@ -89,7 +89,7 @@
            
            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
            {% for page in pages %} 
-              <b><li><a href="{{ page.url | prepend: site.url }}" class="{{ page.lang }}">{{ page.lang }}</a> </li> </b>
+              <li><a href="{{ page.url | prepend: site.url }}" class="{{ page.lang }}">{{ page.lang }}</a> </li>
            {% endfor %}
            
            <!--
@@ -112,7 +112,9 @@
            </script>
            -->
            
-           <li> <p id="demo" ></li>
+           <p style="display:inline" id="demo" ></p>
+           
+           <p id="demo" ></p>
            
            <script>
            text = "<a href='https://w3schools.com'>Visit W3Schools</a>";
