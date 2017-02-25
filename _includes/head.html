@@ -86,6 +86,8 @@
               <li>{{ idiom[1].short }}</li>
            {% endfor %}
            
+
+          <!-- below good loop!
            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
            {% for page in pages %} 
               <li><a href="{{ page.url | prepend: site.url }}" class="{{ page.lang }}">{{ page.lang }}</a> </li>
@@ -97,20 +99,8 @@
               {% endfor %}
 
 
-            -->
-           
-           <!--
-           <script>
-           if (4 < 0.5) {
-              text = "<a href='https://w3schools.com'>Visit W3Schools</a>";
-           } else {
-              text = "<a href='http://wwf.org'>Visit WWF</a>";
-           }
-           document.getElementById("demo").innerHTML = text;
-           </script>
-           -->
-           
-           <!--
+
+
            <p style="display:inline" id="demo" ></p>
            
            <p id="demo" ></p>
