@@ -121,11 +121,24 @@
            <li> <p style="display:inline" class="header.site-header.li" id="demo" ></p> </li>
            
            <script>
+           if page.lang = it {
+              text = "italiano";
+           } else {
+              text = "english";
+           }
+           document.getElementById("demo").innerHTML = text;
+           </script>
+           
+                 <!--
+
+          
+           
+           <script>
            text = "<a href='https://w3schools.com'>Visit W3Schools</a>";
            document.getElementById("demo").innerHTML = text;
            </script>
            
-           
+            -->
 
             <!-- test for language links
             {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}{% for page in pages %}
