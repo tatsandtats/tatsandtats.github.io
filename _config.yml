@@ -85,7 +85,7 @@ links:
     home:
       title: Homepage
       url: /casa
-    dettagli:
+    details:
       title: Dettagli
       url: /dettagli
 #    where:
