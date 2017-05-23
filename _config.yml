@@ -50,12 +50,12 @@ tools:
 
 languages:
   en:
-    long: "English innit"
+    long: "English"
     short: en
     switch: "Italiano"
     switchshort: it
   it:
-    long: "lingua Italiana"
+    long: "Italiano"
     short: it
     switch: "English"
     switchshort: en
