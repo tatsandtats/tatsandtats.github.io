@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "It's happening"
+title: "Sta per succedere"
 tags: []
 image:
   feature: faces.jpg
@@ -8,4 +8,4 @@ lang: it
 ref: home
 ---
 
-Sta per succedere
+Ebbene sì.
