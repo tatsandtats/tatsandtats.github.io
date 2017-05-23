@@ -11,4 +11,4 @@ ref: home
 Ebbene sì.   
 
 
-Uh-oh, I don't speak this language, take me to the [English website](../home)
+Uh-oh, I don't speak this language, take me to the [English website](../)
