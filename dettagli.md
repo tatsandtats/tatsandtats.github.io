@@ -7,7 +7,7 @@ tags: []
 image:
   feature: soft-trees.jpg
 lang: it
-ref: dettagli
+ref: details
 ---
 
 La cerimonia avrà luogo al Palazzo Comunale di Ravenna, piazza del Popolo 1, 48121 Ravenna (orario da definirsi).  
