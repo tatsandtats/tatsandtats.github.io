@@ -23,7 +23,9 @@ The ceremony will take place in Ravenna Town Hall, piazza del Popolo 1, in Raven
 </div>  
    
    
-   
+<div>
+
+</div>
 Reception will follow at Villa Luisa, via Santerno Ammonite 193, Ravenna. 
 
 <div class="google-maps">
