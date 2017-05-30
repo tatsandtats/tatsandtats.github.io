@@ -10,10 +10,10 @@ ref: home
 
 That's right, we are getting married!   
 
-# How? When? Where?
+** How? When? Where? **
 See [details page](/details)   
 
-## I have so many questions!
+<span style="font-style:italic">I have so many questions!</span>
 Go ahead and [contact us](/contact)   
 
 ### Non parlo inglese! 
