@@ -5,7 +5,7 @@ title: Dettagli
 description: ""
 tags: []
 image:
-  feature: soft-trees.jpg
+  feature: vigna.jpg
 lang: it
 ref: details
 ---
