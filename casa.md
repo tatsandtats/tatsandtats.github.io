@@ -8,7 +8,10 @@ lang: it
 ref: home
 ---
 
-Ebbene sì, sta per succedere.   
+Ebbene sì, ci sposiamo!   
 
+_Come? Dove? Quando?_ Visita la pagina [dettagli](/dettagli)   
 
-Uh-oh, I don't speak this language, take me to the [English website](../)
+_Ho mille domande da farvi!_ Visita la pagina [contatti](/contatti)   
+
+_Uh-oh, I don't speak Italian!_ Visit the [English website](../)
