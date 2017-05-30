@@ -10,4 +10,4 @@ lang: it
 ref: contact
 ---
 
-Contattaci tramite email - tatsandtats@gmail.com  
+Puoi contattarci a questo indirizzo email: tatsandtats@gmail.com  
