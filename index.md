@@ -8,6 +8,10 @@ lang: en
 ref: home
 ---
 
-Brace yourselves because this is happening!
+That's right, we are getting married!   
 
-Non parlo inglese, portami al [sito italiano](../casa)
+*How? When? Where?* See [details page](/details)   
+
+*I have so many questions!* Go ahead and [contact us](/contact)   
+
+*Non parlo inglese!* Visita il [sito italiano](../casa)
