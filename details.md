@@ -11,18 +11,11 @@ ref: details
 ---
 
 
-##### H5
-###### H6
-
-
-Alt-H2
-------
-
-When?   
+##### When?   
 
 Saturday May the 5th 2018
 
-Where?   
+#### Where?   
 
 The ceremony will take place in Ravenna Town Hall, piazza del Popolo 1, in Ravenna, Italy.
 
@@ -38,13 +31,14 @@ Reception will follow at Villa Luisa, via Santerno Ammonite 193, Ravenna.
 </div>
 
 
-
+### How to get there?   
 For those coming from far away - please get in touch before finalising your travel arrangements. Nearest airport is Bologna (BLQ) airport. Trains run frequently between Ravenna and Bologna. Ravenna Town Hall is a 10-minute walk from Ravenna railway station. Transport will be provided from the ceremony to the reception venue and back. Please note parking space is limited, please let us know in advance if you need to drive there with your own car.
 
 
 There is nothing we need other than you coming to share the day with us. Your presence is enough of a present! For this reason there is no registry but we did set up a charity fundraising page instead, which you are welcome to contribute towards, find the link below:   
-
+<div align="center">
 <iframe src="https://www.youcaring.com/fundraiser-widget.aspx?frid=766405" width="260" height="398" frameborder="0"></iframe>
+</div>
 
 
 
