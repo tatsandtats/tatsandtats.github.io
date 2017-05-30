@@ -13,7 +13,7 @@ Ebbene sì, ci sposiamo!
 <span style="font-style:italic">Come? Dove? Quando? </span>   
 Visita la pagina [dettagli](/dettagli)    
 
-<span style="font-style:italic">IHo mille domande da farvi!</span>   
+<span style="font-style:italic">Ho mille domande da farvi!</span>   
 Visita la pagina [contatti](/contatti)  
 
 <span style="font-style:italic">Uh-oh, I don't speak Italian!</span>    
