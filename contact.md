@@ -5,7 +5,7 @@ title: Contact us
 description: ""
 tags: []
 image:
-  feature: soft-trees.jpg
+  feature: lettere.jpg
 lang: en
 ref: contact
 ---
