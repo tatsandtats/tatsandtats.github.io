@@ -10,8 +10,8 @@ ref: home
 
 That's right, we are getting married!   
 
-*How? When? Where?* See [details page](/details)   
+_How? When? Where?_ See [details page](/details)   
 
-*I have so many questions!* Go ahead and [contact us](/contact)   
+_I have so many questions!_ Go ahead and [contact us](/contact)   
 
-*Non parlo inglese!* Visita il [sito italiano](../casa)
+_Non parlo inglese!_ Visita il [sito italiano](../casa)
