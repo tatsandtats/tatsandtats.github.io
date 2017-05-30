@@ -5,7 +5,7 @@ title: Contattaci
 description: ""
 tags: []
 image:
-  feature: soft-trees.jpg
+  feature: lettere.jpg
 lang: it
 ref: contact
 ---
