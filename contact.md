@@ -10,4 +10,4 @@ lang: en
 ref: contact
 ---
 
-Email is best - tatsandtats@gmail.com
+Contact us via email at: tatsandtats@gmail.com
