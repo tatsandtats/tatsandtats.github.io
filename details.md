@@ -29,7 +29,7 @@ Reception will follow at Villa Luisa, Via Santerno Ammonite 193, Ravenna.
 
 
 ### How to get there?   
-For those of you coming from far away - please get in touch before finalising your travel arrangements. Nearest airport is Bologna (BLQ) airport. Trains run frequently between Bologna and Ravenna. The Town Hall is a 10-minute walk from Ravenna railway station. Transport will be provided from the ceremony to the reception venue and back. Please note parking space is limited at the reception venue, please let us know in advance if you need to drive there with your own car.
+For those of you coming from far away - please get in touch before finalising your travel arrangements. Nearest airport is Bologna (BLQ) airport. Trains run frequently between Bologna and Ravenna. The Town Hall is a 10-minute walk from Ravenna railway station. Transport will be provided from the ceremony to the reception venue and back. Please note parking space is limited at the reception venue, let us know in advance if you need to drive there with your own car.
 
 ### What to bring?
 There is nothing we need other than you coming to share the day with us. Your presence is enough of a present! For this reason there is no registry but we did set up a charity fundraising page instead, which you are welcome to contribute towards, find the link below:   
