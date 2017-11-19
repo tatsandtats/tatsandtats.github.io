@@ -17,7 +17,7 @@ Sabato 5 maggio, 2018
 
 ### Dove?   
 
-La cerimonia avrà luogo al Palazzo Comunale di Ravenna, piazza del Popolo 1, Ravenna.
+La cerimonia avrà luogo alle 10.30 al Palazzo Comunale di Ravenna, piazza del Popolo 1, Ravenna.
 <div class="google-maps">
     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d552718.9721252556!2d11.811229583592342!3d44.43532089113919!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbe4eda259187bc7b!2sComune+di+Ravenna!5e0!3m2!1sen!2suk!4v1487937797713" width="600" height="450" frameborder="0" style="border:40px solid #f9f9f9" allowfullscreen></iframe>
 </div>  
@@ -29,7 +29,13 @@ Seguirà il ricevimento presso Villa Luisa, via Santerno Ammonite 193, Ravenna.
 
 
 ### Come ci si arriva?   
-Per chi di voi verrà da lontano - contattateci prima di confermare le vostre prenotazioni di viaggio. L'aeroporto più vicino è Bologna (BLQ). Ci sono treni frequenti tra Bologna e Ravenna. Il Palazzo Comunale di Ravenna è a 10 minuti a piedi dalla stazione dei treni. Offriremo il trasporto andata e ritorno tra il centro di Ravenna e il ricevimento. Prego di notare che lo spazio per parcheggiare è molto limitato, quindi cortesemente fateci sapere con anticipo se avete esigenza di usare la vostra macchina.   
+Per chi di voi verrà da lontano - contattateci prima di confermare le vostre prenotazioni di viaggio. L'aeroporto più vicino è Bologna (BLQ). Ci sono treni frequenti tra Bologna e Ravenna. Un'altra opzione è questo [shuttle](http://www.shuttlecrab.it/) che collega l'aeroporto di Bologna la stazione dei treni di Ravenna. Il Palazzo Comunale di Ravenna è a 10 minuti a piedi dalla stazione dei treni. Offriremo il trasporto andata e ritorno tra il centro di Ravenna e il ricevimento. Prego di notare che lo spazio per parcheggiare è molto limitato, quindi cortesemente fateci sapere con anticipo se avete esigenza di usare la vostra macchina.    
+
+### Dove dormire?  
+Consigliamo questi hotel: [NH Hotel](https://www.nh-hotels.com/hotel/nh-ravenna) e [Hotel Diana](http://www.hoteldiana.ra.it/). Per ottenere l'offerta migliore prenotate direttamente tramite l'hotel e dite i nostri cognomi come riferimento. Questi hotel sono entrambi vicini al Comune e verrete riportati nelle vicinanze dopo il ricevimento. Se scegliete di pernottare altrove, ricordatevi che la maggior parte del centro storico di Ravenna è chiuso al traffico - per questo consigliamo di stare in un posto raggiungibile a piedi dal Comune.
+
+### Cosa indossare?   
+Non c'è dress code, ma visto che il ricevimento è all'aperto (e si ballerà!) sconsigliamo tacchi alti. Vestiti tradizionali come i kilt sono i benvenuti.
 
 ### Che cosa portare?
 Tutto quello che desideriamo è condividere questa giornata con voi. La vostra presenza è l'unico regalo necessario! Per questo motivo non c'è una lista nozze ma abbiamo creato una pagina per raccogliere fondi per un'associazione non-profit. Trovate il link per fare una donazione qui sotto:   
