@@ -4,17 +4,6 @@
 
 <title>{{ site.title }}</title>
  
- <!-- mod title
-<title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title[page.lang] }}</title>
-  -->
- 
- <!-- mod title
- <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title[page.lang] | escape }}{% endif %}</title>
- -->
- 
- <!-- original title
-<title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
- -->
 <meta name="description" content="{{ page.description }}">
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
 
@@ -32,9 +21,6 @@
 <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="{{ site.url }}/assets/css/entypo.css" media="all">
 
-<!-- In order to use Calendas Plus, you must first purchase it. Then, create a font-face package using FontSquirrel.
-<link rel='stylesheet' href='{{ site.url }}/assets/cal.css' media='all' />
--->
 
 
 
@@ -65,57 +51,17 @@
         <a href="#nav" class="menu"><span class='icons'>☰</span></a>
         <nav role="navigation">
           <ul>
-           <!--
-           <li>
-              <a href="/" title="{{ site.title }}">Home</a>
-            </li>
-            -->
             
            {% for item in site.links[page.lang] %}
               <!--{{ item[1].title }} -->
               <li><a href="{% if item[1].external %}{{ item[1].url }}{% else %}{{ site.url }}{{ item[1].url }}{% endif %}" {% if item[1].external %}target="_blank"{% endif %}>{{ item[1].title }}</a></li>
            {% endfor %}
-            <!-- original loop
-            {% for link in site.links %}
-                <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-            {% endfor %}
-            -->
-           
-           <!--
-           {% for idiom in site.languages %}
-              <li>{{ idiom[1].short }}</li>
-           {% endfor %}
-           
-
-          <!-- below good loop!
-           {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-           {% for page in pages %} 
-              <li><a href="{{ page.url | prepend: site.url }}" class="{{ page.lang }}">{{ page.lang }}</a> </li>
-           {% endfor %}
-           
-
-              {% for language in page.lang %}
-              <li> <a href="{{ page.url | prepend: site.url }}" class="{{ page.[site.languages.[language].switchshort] }}">{{ site.languages.[language].switch }} </a></li>
-              {% endfor %}
-
-
-
-
-           <p style="display:inline" id="demo" ></p>
-           
-           <p id="demo" ></p>
-           -->
-           <!--
-           <li> <p style="display:inline" class="header.site-header.li" id="demo" ></p> </li>
-           -->
+  
            
            {% for things in site.fake_loop %} 
               <li>  <p style="display:inline; font-size: 16px; border-style: solid" id="demo" ></p> </li>
            {% endfor %}
            
-           <!--
-           <p style="display:inline; font-size: 16px; border-style: solid" id="demo" ></p>
-           -->
            
            <div id="language" pagelang="{{ page.lang }}" />
            
@@ -138,22 +84,9 @@
            
            
 
-            <!-- test for language links
-            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}{% for page in pages %}
-               <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />
-            {% endfor %}
-            remove above if breaks -->
-
           </ul>
         </nav>
       </div>
     </header>
    
    
-<!-- test 
-<div class="wrapper" style="text-align: right; line-height: 2em">
-
-  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-  {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
-</div>
--->
