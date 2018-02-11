@@ -30,7 +30,7 @@ Seguirà il ricevimento presso Villa Luisa, via Santerno Ammonite 193, Ravenna.
 
 ### Come ci si arriva?   
 Per chi di voi verrà da lontano - contattateci prima di confermare le vostre prenotazioni di viaggio. L'aeroporto più vicino è Bologna (BLQ). L'aeroporto e la stazione di Bologna sono collegati dall'[Aerobus](https://aerobus.bo.it/). Ci sono treni regionali ogni ora tra Bologna Centrale e Ravenna. Un'altra opzione è questo [shuttle](http://www.shuttlecrab.it/) che fa quattro corse al giorno tra l'aeroporto di Bologna e la stazione dei treni di Ravenna. Il Palazzo Comunale di Ravenna è a 10 minuti a piedi dalla stazione dei treni. Offriremo il trasporto andata e ritorno tra il centro di Ravenna e il ricevimento. Fateci sapere con anticipo se avete esigenza di usare la vostra macchina per andare al ricevimento, lo spazio per parcheggiare è molto limitato e dovremo mandarvi istruzioni su dove parcheggiare.  
-Se non conoscete Ravenna e avrete la vostra macchina, prestate attenzione alle telecamere della [ZTL](http://www.turismo.ra.it/eng/Travel/Getting-around/Limited-traffic-zones-(ZTL)). Un parcheggio gratuito abbastanza centrale è [nei pressi della Rocca Brancaleone](https://goo.gl/maps/ap1VQKKn2M32).   
+Se non conoscete Ravenna e avrete la vostra macchina, prestate attenzione alle telecamere della [ZTL](http://www.turismo.ra.it/ita/Come-arrivare/Mobilit%C3%A0/Zone-a-traffico-limitato-(ZTL)). Un parcheggio gratuito abbastanza centrale è [nei pressi della Rocca Brancaleone](https://goo.gl/maps/ap1VQKKn2M32).   
 Per ogni evenienza, consigliamo di salvarsi il numero dei [taxi di Ravenna](https://www.taxidiravenna.it/): 054433888.    
 
 ### Dove dormire?  
