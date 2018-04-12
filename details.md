@@ -40,7 +40,7 @@ The Town Hall is a 10-minute walk from Ravenna railway station. Transport will b
 We recommend these two hotels in Ravenna: [NH Hotel](https://www.nh-hotels.com/hotel/nh-ravenna) and [Hotel Diana](http://www.hoteldiana.ra.it/). Re NH Hotel, the rooms we had reserved have now been released, so you may still consider booking there but there is no special offer. For Hotel Diana, ask a quote directly to them via email at hdianaravenna@gmail.com and mention our surnames to get the best deal. If you choose to stay elsewhere, bear in mind most of Ravenna town centre is closed to traffic - we recommend staying within walking distance to the Town Hall. Another option is [AirBnb](https://www.airbnb.com/).    
 
 ### What to wear?   
-Anything you wish to wear we are sure it will be ok - if in doubt, go semi-formal. Kilts & traditional outfits are very welcome. Do bear in mind that the reception is partly on grass (and there will be dancing!) so choose your footwear wisely.    
+Anything you wish to wear will be fine by us - if in doubt, go semi-formal. Kilts & traditional outfits are very welcome. Do bear in mind that the reception is partly on grass (and there will be dancing!) so choose your footwear wisely.    
 
 ### What to bring?
 There is nothing we need other than you coming to share the day with us. Your presence is enough of a present! For this reason there is no registry but we did set up a charity fundraising page instead, which you are welcome to contribute towards, find the link below:   
