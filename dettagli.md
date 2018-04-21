@@ -29,7 +29,7 @@ Seguirà il ricevimento presso Villa Luisa, via Santerno Ammonite 193, Ravenna.
 
 
 ### Quindi, in sostanza, che cosa dobbiamo fare?   
-Prenotate eventuali voli/treni e un posto per dormire a Ravenna. Fatevi trovare davanti al Comune per le 10.15 di mattina. Non preoccupatevi del trasporto a/r al ricevimento - ci abbiamo pensato noi. Ballate. Piangete di gioia. Divertitevi.
+Prenotate eventuali voli/treni e un posto per dormire a Ravenna. Fatevi trovare davanti al Comune alle 10 di mattina. Non preoccupatevi del trasporto a/r al ricevimento - ci abbiamo pensato noi. Ballate. Piangete di gioia. Divertitevi.
 
 ### Come ci si arriva?   
 Per chi di voi verrà dall'estero - l'aeroporto più vicino è Bologna (BLQ). L'aeroporto e la stazione Centrale di Bologna sono collegati dall'[Aerobus](https://aerobus.bo.it/). Ci sono treni regionali ogni ora tra Bologna Centrale e Ravenna. Un'altra opzione è questo [shuttle](http://www.shuttlecrab.it/) che fa quattro corse al giorno tra l'aeroporto di Bologna e la stazione dei treni di Ravenna. Il Palazzo Comunale di Ravenna è a 10 minuti a piedi dalla stazione dei treni. Offriremo il trasporto andata e ritorno tra il centro di Ravenna e il ricevimento. Fateci sapere con anticipo se avete esigenza di usare la vostra macchina per andare al ricevimento, lo spazio per parcheggiare è molto limitato e dovremo mandarvi istruzioni su dove parcheggiare.  
