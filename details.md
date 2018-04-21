@@ -29,7 +29,7 @@ Lunch reception will follow at Villa Luisa, Via Santerno Ammonite 193, Ravenna.
 
 
 ### So what do I need to do in short?   
-Book flights/trains and some place to sleep in Ravenna. Be in front of the Town Hall by 10.15 am on Saturday the 5th. Don't worry about getting to/from the reception - we got you covered. Dance. Cry tears of joy. Have fun. 
+Book flights/trains and some place to sleep in Ravenna. Be in front of the Town Hall at 10 am on Saturday the 5th. Don't worry about getting to/from the reception - we got you covered. Dance. Cry tears of joy. Have fun. 
 
 ### How to get there?  
 For those of you coming from abroad: nearest airport is Bologna (BLQ). Bologna airport and the main railway station ('Bologna Centrale') are connected by the [Aerobus bus](https://aerobus.bo.it/en) - no need to book this in advance. Direct regional ('Regionale') trains run once an hour between Bologna and Ravenna, check [Trenitalia](http://www.trenitalia.com/tcom-en) for train times. Again, no need to book this in advance, but you can buy your tickets online or on the Trenitalia app and show the barcode. Fast trains take 59 minutes and cost the same as the slower ones. Another option is this [shuttle bus](http://www.shuttlecrab.it/index_en.php) that runs 4 times a day between Bologna airport and Ravenna railway station. If you are flying into a different airport, you can catch a high speed train with [Trenitalia](http://www.trenitalia.com/tcom-en) or [Italo](https://www.italotreno.it/en) - best to book these in advance. 
