@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Sta per succedere"
+title: "È successo"
 tags: []
 image:
   feature: faces.jpg
@@ -8,7 +8,7 @@ lang: it
 ref: home
 ---
 
-Ebbene sì, ci sposiamo!   
+Ebbene sì, ci siamo sposati!   
 
 <span style="font-style:italic">Come? Dove? Quando? </span>   
 Visita la pagina [dettagli](/dettagli)    
