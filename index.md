@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "It's happening!"
+title: "It happened!"
 tags: []
 image:
   feature: faces.jpg
@@ -8,7 +8,7 @@ lang: en
 ref: home
 ---
 
-That's right, we are getting married!   
+That's right, we got married!   
 
 <span style="font-style:italic">How? When? Where? </span>   
 See [details page](/details)   
