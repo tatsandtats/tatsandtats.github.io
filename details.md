@@ -20,10 +20,7 @@ Saturday May the 5th, 2018
 It's done now!  
 
 ### But can I still contribute?
-There is no registry but we did set up a charity fundraising page instead, which you are welcome to contribute towards, find the link below (we will close this on May 31st):   
-<div align="center">
-<iframe src="https://www.youcaring.com/fundraiser-widget.aspx?frid=766405" width="260" height="398" frameborder="0"></iframe>
-</div>
+Our fundraiser is now closed, get in touch if you still wish to make a donation.   
 
 
 
