@@ -20,8 +20,5 @@ Sabato 5 maggio, 2018
 È fatta, ci siamo già sposati!
 
 ### Posso ancora contribuire?
-Non c'è una lista nozze ma abbiamo creato una pagina per raccogliere fondi per un'associazione di beneficienza. Trovate il link per fare una donazione qui sotto (attivo fino al 31 maggio):   
-<div align="center">
-<iframe src="https://www.youcaring.com/fundraiser-widget.aspx?frid=766405" width="260" height="398" frameborder="0"></iframe>
-</div>
+Contattateci se volete fare una donazione, la nostra pagina di fundraising è ora chiusa.   
 
